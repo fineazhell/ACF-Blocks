@@ -1,0 +1,15 @@
+#pet-information{
+    background-color: aquamarine;
+}
+
+#pet-information p{
+    font-weight: 700;
+}
+
+#pet-information span{
+    font-weight: 400;
+}
+
+#pet-information img{
+    width: 100%;
+}

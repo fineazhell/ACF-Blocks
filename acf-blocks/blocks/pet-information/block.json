@@ -1,0 +1,13 @@
+{
+    "name": "acf/pet-information",
+    "title": "Pet Information",
+    "description": "Display a simple information about pets.",
+    "style": [ "file:./pet-information.css" ],
+    "category": "formatting",
+    "icon": "buddicons-activity",
+    "keywords": ["pet", "information"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "template.php"
+    }
+}

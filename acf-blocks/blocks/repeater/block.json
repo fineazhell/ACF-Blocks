@@ -1,0 +1,13 @@
+{
+    "name": "acf/repeater",
+    "title": "Repeater training",
+    "description": "Display a simple repeater.",
+    "style": [ "file:./repeater.css" ],
+    "category": "formatting",
+    "icon": "buddicons-activity",
+    "keywords": ["repeat", "repeat"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "template.php"
+    }
+}
